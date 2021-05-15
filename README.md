@@ -15,8 +15,8 @@ var samad = {
       'onGoing': true
     }
   ],
-  interests: ['IoT', 'Drones', 'Robotics'],
-  languages: ['C', 'C++', 'C#', 'JavaScript', 'TypeScript', 'Python', 'Rust'],
+  interests: ['IoT', 'Blockchain', 'Robotics'],
+  languages: ['C', 'C++', 'C#', 'JavaScript', 'Python', 'Rust'],
   webLocations: [
     'https://www.samadahmed.com',
     'https://www.linkedin.com/in/samadahmed/'
