@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Samad 👋🏽
 
 <!--
 **sahmed007/sahmed007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently building [Chamoy](https://chamoy.io/) and [Today](https://buildit.today/). Passionate about Ruby on Rails and bootstrapping tiny experiments quickly.
