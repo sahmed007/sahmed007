@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently building [Chamoy](https://chamoy.io/) and [Today](https://buildit.today/). Passionate about Ruby on Rails and bootstrapping tiny experiments quickly.
+I'm currently building [Chamoy](https://chamoy.io/). Passionate about Ruby on Rails and bootstrapping tiny experiments quickly.
