@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently building [Chamoy Labs](https://chamoylabs.com/). Passionate about Ruby on Rails and bootstrapping tiny experiments quickly.
+Passionate about Ruby on Rails and bootstrapping tiny experiments quickly.
